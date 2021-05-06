@@ -1,114 +1,107 @@
 @font-face {
-  font-family: 'BleepBloop';
-  src: url('https://dl.dropboxusercontent.com/s/g4vce5nvb7t1k9t/BleepBloop-Bold.woff2') format('woff2');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/OperatorSSm-LightItalic.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'BleepBloop';
-  src: url('https://dl.dropboxusercontent.com/s/yk90797dt23a7y5/BleepBloop-Black.woff2') format('woff2');
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/j5u9ya4xmdimaxx/OperatorSSm-BookItalic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/OperatorSSm-LightItalic.woff2') format('woff2');
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/quqxfg53lqfzxh3/OperatorSSm-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/j5u9ya4xmdimaxx/OperatorSSm-BookItalic.woff2') format('woff2');
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap;
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/j3kpd3bezxp9qx3/OperatorSSm-XLight.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/quqxfg53lqfzxh3/OperatorSSm-Medium.woff2') format('woff2');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/axjgdd8vj13alla/OperatorSSm-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/j3kpd3bezxp9qx3/OperatorSSm-XLight.woff2') format('woff2');
-  font-weight: 200;
-  font-style: normal;
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/4yqs8xuue1iud5d/OperatorSSm-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/axjgdd8vj13alla/OperatorSSm-Bold.woff2') format('woff2');
-  font-weight: bold;
-  font-style: normal;
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/fah03ifd1rn4qqw/OperatorSSm-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/4yqs8xuue1iud5d/OperatorSSm-MediumItalic.woff2') format('woff2');
-  font-weight: 500;
-  font-style: italic;
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/4jjt5wi1lulx7ic/OperatorSSm-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/r945etezwlbap58/OperatorSSm-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/fah03ifd1rn4qqw/OperatorSSm-Light.woff2') format('woff2');
-  font-weight: 300;
-  font-style: normal;
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/v7z8zglu0h8jakh/OperatorSSm-Book.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/4jjt5wi1lulx7ic/OperatorSSm-Black.woff2') format('woff2');
-  font-weight: 900;
-  font-style: normal;
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/996wjvbxt0ysvsa/OperatorSSm-BlackItalic.woff2') format('woff2');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/r945etezwlbap58/OperatorSSm-BoldItalic.woff2') format('woff2');
-  font-weight: bold;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/v7z8zglu0h8jakh/OperatorSSm-Book.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/996wjvbxt0ysvsa/OperatorSSm-BlackItalic.woff2') format('woff2');
-  font-weight: 900;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Operator SSm';
-  src: url('https://dl.dropboxusercontent.com/s/wnkye1zd93x7s1t/OperatorSSm-XLightItalic.woff2') format('woff2');
-  font-weight: 200;
-  font-style: italic;
-  font-display: swap;
+    font-family: 'Operator SSm';
+    src: url('https://dl.dropboxusercontent.com/s/wnkye1zd93x7s1t/OperatorSSm-XLightItalic.woff2') format('woff2');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
   font-family: 'Operator Mono';
-  src: local('Operator Mono Medium'), local('OperatorMono-Medium'),
-    url('https://dl.dropboxusercontent.com/s/u7jbo7nhtty341g/OperatorMono-Medium.woff2') format('woff2');
+  src: local('Operator Mono Medium Italic'), local('OperatorMono-MediumItalic'),
+    url('https://dl.dropboxusercontent.com/s/u7jbo7nhtty341g/OperatorMono-MediumItalic.woff2') format('woff2');
   font-weight: 500;
-  font-style: normal;
+  font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
@@ -129,6 +122,7 @@
   font-display: swap;
 }
 
+
 @font-face {
   font-family: 'Operator Mono';
   src: local('Operator Mono Medium'), local('OperatorMono-Medium'),
@@ -143,6 +137,33 @@
   src: local('Operator Mono Extra Light Italic'), local('OperatorMono-XLightItalic'),
     url('https://dl.dropboxusercontent.com/s/9jfxlra9e6km0cj/OperatorMono-XLightItalic.woff2') format('woff2');
   font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator Mono';
+  src: local('Operator Mono Extra Light'), local('OperatorMono-XLight'),
+    url('https://dl.dropboxusercontent.com/s/bpizfem4qto0o94/OperatorMono-XLight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator Mono';
+  src: local('Operator Mono Book'), local('OperatorMono-Book'),
+    url('https://dl.dropboxusercontent.com/s/h05rq369zs3m9nn/OperatorMono-Book.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator Mono';
+  src: local('Operator Mono Book Italic'), local('OperatorMono-BookItalic'),
+    url('https://dl.dropboxusercontent.com/s/tuw48g89agjywex/OperatorMono-BookItalic.woff2') format('woff2');
+  font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
@@ -166,10 +187,86 @@
 }
 
 @font-face {
-  font-family: 'Operator Mono';
-  src: local('Operator Mono Bold'), local('OperatorMono-Bold'),
-    url('https://dl.dropboxusercontent.com/s/c579t3tqzu3hejm/OperatorMono-Bold.woff2') format('woff2');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
+    font-family: 'BleepBloop';
+    src: url('https://dl.dropboxusercontent.com/s/yk90797dt23a7y5/BleepBloop-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
 }
+
+@font-face {
+    font-family: 'BleepBloop';
+    src: url('https://dl.dropboxusercontent.com/s/9qm9cii1v4gm4a8/BleepBloop-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BleepBloop';
+    src: url('https://dl.dropboxusercontent.com/s/ozjyv9n5gzptfvh/BleepBloop-LightItalic.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BleepBloop Med';
+    src: url('https://dl.dropboxusercontent.com/s/w8v9vqes523b1sr/BleepBloop-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'BleepBloop';
+    src: url('https://dl.dropboxusercontent.com/s/wdro3jo73ti8xof/BleepBloop-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BleeBloop Med';
+    src: url('https://dl.dropboxusercontent.com/s/4jqkcc1mbk99uv5/BleeBloop-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'BleepBloop';
+    src: url('https://dl.dropboxusercontent.com/s/3eu6uz77bgzmi0v/BleepBloop-BlackItalic.woff2
+') format('woff2');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BleepBloop';
+    src: url('https://dl.dropboxusercontent.com/s/pbop98c0wo0uwbs/BleepBloop-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BleepBloop';
+    src: url('https://dl.dropboxusercontent.com/s/nvnjsvzm6uk26l3/BleepBloop-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'BleepBloop';
+    src: url('https://dl.dropboxusercontent.com/s/g4vce5nvb7t1k9t/BleepBloop-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
