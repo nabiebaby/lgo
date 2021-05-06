@@ -1,0 +1,175 @@
+@font-face {
+  font-family: 'BleepBloop';
+  src: url('https://dl.dropboxusercontent.com/s/g4vce5nvb7t1k9t/BleepBloop-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BleepBloop';
+  src: url('https://dl.dropboxusercontent.com/s/yk90797dt23a7y5/BleepBloop-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/OperatorSSm-LightItalic.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/j5u9ya4xmdimaxx/OperatorSSm-BookItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/quqxfg53lqfzxh3/OperatorSSm-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/j3kpd3bezxp9qx3/OperatorSSm-XLight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/axjgdd8vj13alla/OperatorSSm-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/4yqs8xuue1iud5d/OperatorSSm-MediumItalic.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/fah03ifd1rn4qqw/OperatorSSm-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/4jjt5wi1lulx7ic/OperatorSSm-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/r945etezwlbap58/OperatorSSm-BoldItalic.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/v7z8zglu0h8jakh/OperatorSSm-Book.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/996wjvbxt0ysvsa/OperatorSSm-BlackItalic.woff2') format('woff2');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator SSm';
+  src: url('https://dl.dropboxusercontent.com/s/wnkye1zd93x7s1t/OperatorSSm-XLightItalic.woff2') format('woff2');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator Mono';
+  src: local('Operator Mono Medium'), local('OperatorMono-Medium'),
+    url('https://dl.dropboxusercontent.com/s/u7jbo7nhtty341g/OperatorMono-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Operator Mono';
+  src: local('Operator Mono Bold'), local('OperatorMono-Bold'),
+    url('https://dl.dropboxusercontent.com/s/c579t3tqzu3hejm/OperatorMono-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator Mono';
+  src: local('Operator Mono Bold Italic'), local('OperatorMono-BoldItalic'),
+    url('https://dl.dropboxusercontent.com/s/awviczyrrzmv9lz/OperatorMono-BoldItalic.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator Mono';
+  src: local('Operator Mono Medium'), local('OperatorMono-Medium'),
+    url('https://dl.dropboxusercontent.com/s/u7jbo7nhtty341g/OperatorMono-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator Mono';
+  src: local('Operator Mono Extra Light Italic'), local('OperatorMono-XLightItalic'),
+    url('https://dl.dropboxusercontent.com/s/9jfxlra9e6km0cj/OperatorMono-XLightItalic.woff2') format('woff2');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator Mono';
+  src: local('Operator Mono Light'), local('OperatorMono-Light'),
+    url('https://dl.dropboxusercontent.com/s/efoj3408ulxm51n/OperatorMono-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator Mono';
+  src: local('Operator Mono Light Italic'), local('OperatorMono-LightItalic'),
+    url('https://dl.dropboxusercontent.com/s/4ma0q7qyfba6nx1/OperatorMono-LightItalic.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Operator Mono';
+  src: local('Operator Mono Bold'), local('OperatorMono-Bold'),
+    url('https://dl.dropboxusercontent.com/s/c579t3tqzu3hejm/OperatorMono-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
